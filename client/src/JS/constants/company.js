@@ -1,0 +1,8 @@
+export const REGISTER_COMPANY = "REGISTER_COMPANY";
+export const EDIT_COMPANY = "EDIT_COMPANY";
+export const LOAD_COMPANY = "LOAD_COMPANY";
+export const FAIL_COMPANY = "FAIL_COMPANY";
+export const ONE_COMPANY = "ONE_COMPANY";
+export const ALL_COMPANY = "ALL_COMPANY";
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
+export const CURRENT_COMPANY = "CURRENT_COMPANY";

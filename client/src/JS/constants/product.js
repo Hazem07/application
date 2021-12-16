@@ -1,0 +1,8 @@
+export const REGISTER_PRODUCT = "REGISTER_PRODUCT";
+export const EDIT_PRODUCT = "EDIT_PRODUCT";
+export const DELETE_PRODUCT = "DELETE_PRODUCT";
+export const ALL_PRODUCT = "ALL_PRODUCT";
+export const LOAD_PRODUCT = "LOAD_PRODUCT";
+export const FAIL_PRODUCT = "FAIL_PRODUCT";
+export const ONE_PRODUCT = "ONE_PRODUCT";
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
